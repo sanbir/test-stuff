@@ -1,0 +1,6 @@
+{
+    "name": "BTC",
+    "description": "The real Bitcoin",
+    "image": "https://en.wikipedia.org/wiki/Bitcoin#/media/File:Bitcoin.png",
+    "otherStuff": 43
+}
