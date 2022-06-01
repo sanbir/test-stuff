@@ -1,0 +1,6 @@
+{
+    "name": "Test Name",
+    "description": "Test Description",
+    "image": "https://en.wikipedia.org/wiki/Dogecoin#/media/File:Dogecoin_Logo.png",
+    "otherStuff": 42
+}
